@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{ 
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+       border: 1px solid rgb(255, 60, 125);
+       padding: 5px;
+       margin: 10x;
+       text-align: center;
+       background-color: rgb(241, 144, 204);
+
+}
+.links{
+    display: inline;
+}
+.links a{
+     text-decoration: none;
+     font-family: 'Indie Flower', cursive;
+     font-size: x-large;
+     padding: 0 5px 0 5px;
+     border: 1px solid rgb(0, 0, 0);
+     opacity: .7;
+     transition: 0.8s;
+}
+.links a:hover{
+    opacity: 1;
+    font-size: 35px;
+    transition: .8s;
+    font-family:'Times New Roman', Times, serif
+}
+.rounded{border-radius: 20px;
+background-color: rgb(156, 156, 233);}
+
+.twt{
+    background-color: black;
+    color: white;
+    border-radius: 10px;}
+
+.insta{
+    background-color:rgb(247, 168, 208);
+    color:darkorchid;
+    border-radius: 10px;
+}
+.tt{
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+}
